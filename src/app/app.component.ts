@@ -13,7 +13,9 @@ export class AppComponent {
     { title: 'Home', url: '/home', icon: 'home' },
     { title: 'Customers', url: '/customers', icon: 'people-circle' },
     { title: 'Provincias', url: '/provincias', icon: 'location' },
-    { title: 'Login', url: '/login', icon: 'log-in' }
+    { title: 'Login', url: '/login', icon: 'log-in' },
+    { title: 'Scanner', url: '/scanner', icon: 'qr-code' }
+    
   ];
   
   constructor(
